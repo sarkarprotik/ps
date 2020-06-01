@@ -15,7 +15,7 @@ const Nav = () => {
                 <div className="uk-navbar-left">
                   <ul className="uk-navbar-nav">
                     <li>
-                      <Link to="/">Protik Sarkar</Link>
+                      <Link to="/">Sarkar</Link>
                     </li>
                   </ul>
                 </div>
